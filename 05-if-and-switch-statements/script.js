@@ -21,13 +21,13 @@ console.log("Taks 02");
 // TODO: Implement the oddEven function
 
 function oddEven(number) {
-  let resultOodEven;
+  let resultOddEven;
   if (number % 2 == 0) {
-    resultOodEven = "even";
+    resultOddEven = "even";
   } else {
-    resultOodEven = "odd";
+    resultOddEven = "odd";
   }
-  return resultOodEven;
+  return resultOddEven;
 }
 
 console.log(oddEven(4));
