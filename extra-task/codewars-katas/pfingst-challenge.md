@@ -1,0 +1,17 @@
+# Pfingst-Challenge Katas
+
+- [x] [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
+- [x] [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989)
+- [x] [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/javascript)
+- [x] [Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
+- [x] [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
+- [x] [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
+- [x] [Check same case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)
+- [x] [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25)
+- [x] [Fun with ES6 Classes #2 - Animals and Inheritance](https://www.codewars.com/kata/56f935002e6c0d55fa000d92)
+- [x] [Who's Online?](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
+- [x] [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375)
+- [x] [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+- [x] [Most Likely](https://www.codewars.com/kata/56644a421b7c94c622000056)
+- [x] [Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc)
+- [x] [Simple Fun #198: Cake Slice](https://www.codewars.com/kata/58c8a41bedb423240a000007)
